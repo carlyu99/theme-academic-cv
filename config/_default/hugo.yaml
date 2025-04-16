@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Chenkai Yu
 # Website URL
 baseURL: 'https://example.com/'
 
@@ -38,9 +38,9 @@ outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
+  resampleFilter: Lanczos
   quality: 80
-  anchor: smart
+  anchor: Smart
 timeout: 600000
 taxonomies:
   author: authors

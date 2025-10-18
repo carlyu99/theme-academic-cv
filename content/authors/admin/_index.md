@@ -50,7 +50,7 @@ profiles:
 interests:
   - Game Theory and Mechanism Design
   - Learning and Optimization
-  - Online Platform Design
+  - Platform Economics 
 
 education:
   - area: PhD in Decision, Risk, and Operations
@@ -180,7 +180,10 @@ I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://academi
 My research explores the intersection of economics and computer science, develops mathematical models to illuminate complex phenomena, and designs algorithms to facilitate informed decision-making.
 I have been working with [Hongyao Ma](https://www.hongyaoma.com/) on pricing problems in ridesharing markets and fraud detection in online platforms.
 
-I earned my Bachelor's degree in Computer Science from [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University. During my undergraduate studies, I spent a summer at the [University of Michigan](https://umich.edu/), where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design; I also spent six months at [Caltech](https://www.caltech.edu/), collaborating with [Adam Wierman](https://adamwierman.com/) on online optimization research.
+I earned my Bachelor's degree in Computer Science from [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
+During my undergraduate studies,
+I spent a summer at the [University of Michigan](https://umich.edu/), working with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design,
+and spent six months at [Caltech](https://www.caltech.edu/), working with [Adam Wierman](https://adamwierman.com/) on online optimization and learning.
 
 My name in [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html): YU [y˧˥] Chen [tʂʰən˧˥] Kai [kʰaɪ˨˩˧].
 "Yu" sounds like the French "u".

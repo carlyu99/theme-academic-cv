@@ -17,5 +17,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.08392
 url_slides: 'INP.pdf'
-url_pdf: 'https://tinyurl.com/iterative-network-pricing'
+url_pdf: 'https://drive.google.com/file/d/1oZRSJT6FdArNOdMLCR-l5RvdnE3y6YCF/view?usp=sharing'
+# 'https://tinyurl.com/iterative-network-pricing'
 ---

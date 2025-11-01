@@ -176,14 +176,11 @@ work:
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 
-I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://academics.gsb.columbia.edu/phd/academics/dro) division at Columbia Business School.
-My research explores the intersection of economics and computer science, develops mathematical models to illuminate complex phenomena, and designs algorithms to facilitate informed decision-making.
-I have been working with [Hongyao Ma](https://www.hongyaoma.com/) on pricing problems in ridesharing markets and fraud detection in online platforms.
+I am a PhD student in the [Decision, Risk, and Operations (DRO)](https://business.columbia.edu/faculty/divisions/dro) division at Columbia Business School, advised by [Hongyao Ma](https://www.hongyaoma.com/).
 
-I earned my Bachelor's degree in Computer Science from [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
-During my undergraduate studies,
-I spent a summer at the [University of Michigan](https://umich.edu/), working with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design,
-and spent six months at [Caltech](https://www.caltech.edu/), working with [Adam Wierman](https://adamwierman.com/) on online optimization and learning.
+My research asks how to **design uncertainty-aware systems with strategic participants**. I bridge the gap between **optimization, market/mechanism design, and statistical inference** to address challenges in modern digital platforms. My main projects focus on network pricing in ridesharing markets, fraud detection in online platforms, and the foundations of online learning and control.
+
+I earned my Bachelor’s degree in Computer Science from the [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University. During my undergraduate studies, I spent time at [Caltech](https://www.caltech.edu/) working with [Adam Wierman](https://adamwierman.com/) and at the [University of Michigan](https://umich.edu/) working with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/).
 
 My name in [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html): YU [y˧˥] Chen [tʂʰən˧˥] Kai [kʰaɪ˨˩˧].
 "Yu" sounds like the French "u".

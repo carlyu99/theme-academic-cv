@@ -107,7 +107,7 @@ sections:
     id: contact
     content:
       title: Contact
-      text: cyu26@gsb.columbia.edu
+      text: cy2613@columbia.edu
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

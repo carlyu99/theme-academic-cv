@@ -10,7 +10,7 @@ date: '2022-06-01'
 publishDate: '2025-04-16T19:57:33.570842Z'
 publication_types:
 - paper-conference
-publication: '*2022 American Control Conference (ACC)*'
+publication: '*American Control Conference (ACC 2022)*'
 doi: 10.23919/ACC53348.2022.9867421
 abstract: This paper studies the impact of imperfect information in online control
   with adversarial disturbances. In particular, we consider both delayed state feedback

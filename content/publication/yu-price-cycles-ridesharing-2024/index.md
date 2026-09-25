@@ -8,7 +8,7 @@ date: '2023-12-31'
 publishDate: '2025-04-16T19:57:33.614720Z'
 publication_types:
 - paper-conference
-publication: '*Web and Internet Economics*'
+publication: '*Web and Internet Economics (WINE 2023)*'
 doi: 10.1007/978-3-031-48974-7_35
 abstract: In ridesharing platforms such as Uber and Lyft, it is observed that drivers
   sometimes collaboratively go offline when the price is low, and then return after

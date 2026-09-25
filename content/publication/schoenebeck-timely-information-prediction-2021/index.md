@@ -9,7 +9,7 @@ publishDate: '2025-04-16T19:57:33.558845Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 20th International Conference on Autonomous Agents
-  and MultiAgent Systems*'
+  and MultiAgent Systems (AAMAS 2021)*'
 abstract: 'Prediction markets are powerful tools to elicit and aggregate beliefs from
   strategic agents. However, in current prediction markets, agents may exhaust the
   social welfare by competing to be the first to update the market. We initiate the
